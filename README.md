@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Michael Cohen. 👋
 
-### Full Stack Javascript Developer
+### I am a Full Stack Javascript Developer.
 
-#### ReactJS, ExpressJS, MongoDB, NodeJS
 
 <!--
 **mcohen2000/mcohen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +22,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcohen2000&theme=tokyonight&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcohen2000&layout=compact)](https://github.com/mcohen2000/github-readme-stats)
+
+### Languages & Tools:
+#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,express,mongodb,nodejs,vscode,netlify,ps,figma,git,github)](https://skillicons.dev)
