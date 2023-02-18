@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Full Stack Javascript Developer
+
+#### ReactJS, ExpressJS, MongoDB, NodeJS
+
 <!--
 **mcohen2000/mcohen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
