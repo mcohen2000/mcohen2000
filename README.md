@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcohen2000&layout=compact)](https://github.com/mcohen2000/github-readme-stats)
 
 ### Languages & Tools:
-#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,express,mongodb,nodejs,vscode,netlify,ps,figma,git,github)](https://skillicons.dev)
+#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,express,mongodb,nodejs,vscode,netlify,ps,figma,git,github)](https://skillicons.dev)
