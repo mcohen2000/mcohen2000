@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcohen2000&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcohen2000&count_private=true&theme=tokyonight&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcohen2000&layout=compact)](https://github.com/mcohen2000/github-readme-stats)
 
