@@ -1,6 +1,6 @@
 ### Hi there, my name is Michael Cohen. 👋
 
-### I am a Full Stack Javascript Developer.
+### I am a Full Stack JavaScript Developer.
 
 
 <!--
