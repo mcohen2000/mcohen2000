@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 ### Languages & Tools:
-#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,express,mongodb,nodejs,vscode,netlify,ps,figma,git,github)](https://skillicons.dev)
+#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,materialui,express,mongodb,postgres,nodejs,vscode,netlify,ps,figma,git,github)](https://skillicons.dev)
