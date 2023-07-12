@@ -1,7 +1,6 @@
 ### Hi there, my name is Michael Cohen. 👋
 
-### I am a Full Stack JavaScript Developer.
-
+I am a front-end focused JavaScript developer with a passion for delivering exceptional user experiences. I have a strong attention to detail and a talent for solving problems through creative and collaborative means. With a background in both tech support and graphic design, I bring a unique skill set to the table, making me an asset to any development team. I am driven by the challenge of transforming wireframes into pixel-perfect interfaces and always aim to write clean, maintainable code. I am eager to continue my growth as a developer and contribute to projects that push the boundaries of technology and design.
 
 <!--
 **mcohen2000/mcohen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
