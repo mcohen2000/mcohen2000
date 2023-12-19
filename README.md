@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ### Languages & Tools:
-#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nextjs,ts,bootstrap,materialui,tailwind,express,mongodb,postgres,nodejs,vscode,netlify,vercel,ps,figma,svg,vite,git,github,java)](https://skillicons.dev)
+#### [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nextjs,ts,bootstrap,materialui,tailwind,express,mongodb,postgres,nodejs,prisma,vscode,netlify,vercel,ps,figma,svg,vite,git,github,java)](https://skillicons.dev)
